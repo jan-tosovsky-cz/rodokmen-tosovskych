@@ -1,0 +1,246 @@
+Katolické matriky
+=================
+
+Bílý Újezd 
+----------
+N 1663-1770
+N 1806-1834
+N 1845-1857 (několik)
+N 1858-1872
+N 1873-1903
+O 1663-1770
+Z 1663-1770
+
+Bohuslavice nad Metují 
+----------------------
+(před 1742 součástí Nového Města)
+N 1742-1812 (pár výskytů)
+N 1812-1841 (v indexu jediný záznam, ale chybí v matrice)
+O 1742-1841 (2x)
+Z 1784-1837 (nic)
+
+Borohrádek
+----------
+N 1849-1902 (Borohrádek) (nic)
+
+Brandýs nad Orlicí
+------------------
+N 1835-1865 (nic)
+N 1866-1909 (vsi, výskyt Rozsocha)
+O 1856-1881 (pouze Rozsocha (1x) a Sudislav)
+O 1882- (po stranu 160) -1920
+Z 1761-1863 (nic)
+
+Boušín (u České Skalice)
+------------------------
+NOZ 1784-1847 (nic)
+
+Bystré
+------
+N 1784-1812 (nic)
+N 1828-1880 (nic)
+O 1827-1862 (nic)
+Z 1785-1812 (nic)
+
+Častolovice
+-----------
+N 1638-1899
+O 1638-1806
+Z 1638-1799
+
+Černíkovice
+-----------
+N 1784-1798
+N 1799-1831
+N 1831-1849
+N 1845-1891 (pouze Byzhradec)
+Z 1784-1835
+Z 1836-1906 (pouze Černíkovice, vsi zatím nejsou)
+
+Černilov
+--------
+Z komplet (nic)
+
+Česká Skalice
+-------------
+NOZ 1651-1834 (1x Z 1710 a 2x O kolem 1750)
+N 1835-1897 (2x rodina původem z Pulic, 1x 1894 Hostinka, nedohledáno)
+Z 1835-1897 (2x rodina původem z Pulic, 1x Hostinka, 1x Zájezd, obojí nedohl.)
+
+Dobruška
+--------
+N 1799-1897
+O 1806-1910 (mimo Dka)
+O 1846-1891 (Dka)
+Z 1806-1886
+
+Holohlavy
+---------
+NOZ 1667-1870 (jedna svatba)
+O 1854-1891 (1x)
+
+Hradec Králové
+--------------
+N 1667-1770 (1x 1675)
+N 1784-1896 (nic)
+O 1667-1770 (nic)
+O 1784-1842 (nic)
+Z 1667-1770 (nic)
+Z 1893-1936 (nic)
+
+Choceň
+------
+N 1806-1828 (Koldín, 1 rodina)
+N 1828-1841 (nic)
+N 1841-1889 (mimo Choceň, 1 rodina do 1860, pak nic)
+
+Jaroměř
+-------
+N 1628-1908 (3x kolem 1875)
+O 1650-1914 (1x 1874)
+Z 1874-1914 (1x 1875)
+
+Jasenná
+-------
+N 1719-1883 (nic)
+
+Josefov
+-------
+NOZ 1784-1853 (nic)
+
+Kostelec nad Orlicí
+-------------------
+N 1623-1722 (nic)
+N 1826-1843
+N 1843-1919 (vsi, větší rodina v Tutlekách do roku 1890)
+O 1666-1722 (nic)
+O 1772-1893 (něco málo)
+
+Lukavice (RK)
+-------------
+N 1768-1837 (jedna rodina)
+Z 1784-1837 (jedna rodina)
+
+Náchod
+------
+N 1670-1905 (2x N nemanž. 1826 + 1829 a 1x 1904)
+O 1835-1905 (2x 1903 a 1904)
+
+Nové Město nad Metují
+---------------------
+N 1641-1897 (nic novějšího není)
+O 1642-1905 (od 1865 použit index)
+Z 1641-1905 (od 1853 použit index)
+
+Nový Hrádek
+-----------
+NOZ 1721-1825 (nic)
+N 1826-1855 (nic)
+N 1856-1886 (mnoho)
+N 1886-1901 (Nový Hrádek pár)
+O 1826-1869 (nic)
+Z 1826-1869 (mnoho)
+
+Opočno
+------
+N 1723-1803 (jedna rodina v Trnově)
+N 1804-1858 (Opočno, 2x okolo 1850)
+N 1784-1810 (vsi, nic)
+N 1806-1902 (Trnov, nic)
+O 1723-1784
+Z 1723-1797
+
+Pouchov
+-------
+N 1784-1844 (nic)
+O 1784-1854 (nic)
+Z 1784-1865 (nic)
+
+Přepychy
+--------
+N 1636-1745 (pár záznamů), ale 1720-45 nic
+N 1746-1879 (mnoho, novější záznamy bez N matrik)
+O 1636-1678 (nic) 
+O 1688-1730 (nic)
+O 1759-1835
+O 1833-1857
+Z 1636-1678 (nic)
+Z 1707-1707 (zbývá dodělat až do 1785)
+Z 1785-1843
+Z 1843-1895 (Čánka + Nová Ves + Očelice + Přepychy + Zádolí + Bolehošť + Lhota)
+
+Nejstarší záznamy jsou však děravé:
+N: 1636-X/1644, III/1647-IV/1649, VII/1659-VIII/1678
+O: V/1638-VIII/1644 a V/1663-1706
+
+Rychnov nad Kněžnou
+-------------------
+N 1656-1662 (vsi)
+N 1871-1914 (RK, několik v rodině soukeníka z Habrové)
+N 1871-1906 (Dubno, Karolín, Lipovka) (3x)
+N 1907-1914 (Dubno, Karolín, Lipovka) (nic)
+O 1835-1919 (RK, několik v rodině soukeníka z Habrové)
+O 1888-1924 (Dubno, Karolín, Lipovka) (nic)
+
+Skuhrov nad Bělou
+-----------------
+NOZ 1787-1949 (3x svatba)
+
+Slavoňov
+--------
+NOZ 1787-1855 (pár výskytů Jestřebí a Libchyně)
+N 1855-1894 (pár výskytů Jestřebí a Libchyně)
+Z 1855-1900 (2x Libchyně)
+
+Solnice
+-------
+N 1685-1735
+N 1837-1893 (Ještětice, mnoho)
+
+Studnice
+--------
+NOZ 1784-1834 (nic)
+zbývá 1834-1900 (bez indexu)
+
+Sudslava
+--------
+N 1840-1861 (1 rodina)
+
+Třebechovice
+------------
+N 1685-1863 (TODO)
+Z 1685-1695 (po str. 293) -1715 (bez indexu)
+Z 1716-1784
+
+Týniště nad Orlicí
+------------------
+N 1686-1688, následuje mezera (něco je v Častolovicích)
+N 1697-1703, následuje mezera (něco je v Častolovicích)
+O 1714-1919
+N 1714-1753
+Z 1714-1832
+
+Velká Jesenice
+--------------
+N 1689-1906 (mnoho)
+O 1689-1652
+O 1716-1718 (není index)
+O 1748-1906
+
+Vysoké Mýto
+-----------
+N 1700-1832 (nic)
+
+Vysoký Újezd
+------------
+N 1787-1819 (pouze Městec, nic)
+N 1820-1834 (několik záznamů v Městci, novější matrika není)
+O 1787-1927 (1x 1819, 2x po 1850, pak řada v Městci kolem 1900)
+Z 1787-1821 (pouze Městec, nic)
+(!) Z 1821-1836 pro Městec chybí
+Z 1836-1926 (pouze Městec, řada osob)
+
+Zvole
+-----
+N 1826-1863 (pouze Doubravice, 3x)
+Z 1830-1860 (pouze Doubravice, 1x)

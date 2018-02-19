@@ -1,0 +1,43 @@
+Nekatolické matriky
+===================
+
+Bohuslavice
+-----------
+N 1870-1909 (nic)
+
+Černilov
+--------
+L01-00008_1878-1911_N+N_index (nic)
+L01-00010_1856-1919_N_index (nic)
+L01-00012_1842-1919_O_index (nic)
+R05-00002_1831-1851_N+N_index (nic)
+
+Holohlavy
+---------
+O 1927-1936 (nic)
+Z 1920-1932 (nic)
+
+Choceň
+------
+N 1863-1902 (nic)
+
+Klášter nad Dědinou
+-------------------
+N 1784-1799 (nic)
+N 1834-1875 (nic)
+N 1875-1890 (3x)
+N 1891-1910 (1x)
+Z 1875-1889 (1x)
+
+Semonice
+--------
+N 1868-1906 (nic)
+
+Šonov
+-----
+O 1878-1911 (nic)
+
+Třebechovice pod Orebem
+-----------------------
+O 1871-1899 (nic)
+Z 1871-1902 (nic)
