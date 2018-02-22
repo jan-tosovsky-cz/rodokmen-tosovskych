@@ -58,3 +58,27 @@ V relativně dlouhém období až do 2. poloviny 19. století lze sledovat relat
 ### Po roce 1850
 
 Zrušení roboty a průmyslová revoluce byly naopak faktory, které zvýšily chuť měnit svá působiště a jít za lepším. Nastává období stěhování do různých koutů republiky.
+
+## Rodokmen
+
+Z dostupných údajů se daří vytvořit rodokmen pouze částečně. Je zde několik velkých a celá řada menších stromů, které nelze s určitostí propojit. 
+
+Chybějící články mohou být
+* osoby neuvedené v matrikách (narození před založením matrik)
+* záznamy ve zničených matrikách (např. Dobruška před rokem 1799)
+* navrátilí emigranti, kteří se narodili mimo území Čech (evangelíci prchali do Pruska, ale někteří se po čase vraceli)
+* záznamy z dosud nezpracovaných matrik
+
+Rodokmen je zatím k dispozici ve velmi surové podobě a optimální způsob jeho zpřístupnění zatím hledám.
+
+## Spolupráce
+
+Máte v rodokmenu někoho, kdo je uveden v seznamu Tošovských? Ozvěte se, potvrdíme si, zda máme správné údaje, a případně poskytnu chybějící články rodokmenu.
+
+Víte o Tošovských žijících před rokem 1900 mimo zpracované části náchodského a rychnovského okresu? Ozvěte se. Hledání záznamů v matrikách ze vzdálenějších oblastí má smysl jen tehdy, pokud jsou v daném místě nositelé přijmení doloženi.
+
+Máte informace z některých gruntovních knih? Ozvěte se, není v silách jednotlivce zpracovat záznamy tak velkého území.
+
+Pište buď přímo na jan.tosovsky.cz@gmail.com, případně se zapojte do diskuze na Facebook skupině [Rodokmen Tošovských](https://www.facebook.com/groups/218517655371779/).
+
+Děkuji
