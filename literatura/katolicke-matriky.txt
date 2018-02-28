@@ -3,21 +3,26 @@ Katolické matriky
 
 Bílý Újezd 
 ----------
-N 1663-1770
+N 1663-1784 (nic)
 N 1806-1834
 N 1845-1857 (několik)
 N 1858-1872
 N 1873-1903
-O 1663-1770
-Z 1663-1770
+O 1663-1805 (nic)
+O 1806-1908 (několik)
+Z 1663-1784 (nic)
+Z 1848-1923 (několik)
 
-Bohuslavice nad Metují 
+Bohuslavice nad Metují
 ----------------------
 (před 1742 součástí Nového Města)
 N 1742-1812 (pár výskytů)
 N 1812-1841 (v indexu jediný záznam, ale chybí v matrice)
+N 1842-1900 (1x 1900)
 O 1742-1841 (2x)
 Z 1784-1837 (nic)
+
+Mladší matriky nejsou k dispozici
 
 Borohrádek
 ----------
@@ -46,6 +51,7 @@ Z 1785-1812 (nic)
 -----------
 N 1638-1899
 O 1638-1806
+O 1886-1920 (vsi, 2x)
 Z 1638-1799
 
 Černíkovice
@@ -66,6 +72,14 @@ Z komplet (nic)
 NOZ 1651-1834 (1x Z 1710 a 2x O kolem 1750)
 N 1835-1897 (2x rodina původem z Pulic, 1x 1894 Hostinka, nedohledáno)
 Z 1835-1897 (2x rodina původem z Pulic, 1x Hostinka, 1x Zájezd, obojí nedohl.)
+
+České Meziříčí
+--------------
+N 1793-1835 (nic)
+O 1793-1856 (2x)
+O 1883-1933 (mnoho, včetně manželek)
+Z 1793-1864 (1x 1828)
+Z 1865-1912 (mnoho)
 
 Dobruška
 --------
@@ -143,12 +157,38 @@ Z 1826-1869 (mnoho)
 
 Opočno
 ------
-N 1723-1803 (jedna rodina v Trnově)
+N 1723-1803 (farnost, jedna rodina v Trnově)
 N 1804-1858 (Opočno, 2x okolo 1850)
+N 1858-1877 (Opočno, jedna rodina)
+N 1878-1892 (Opočno, 1x)
+N 1893-1912 (Opočno, mnoho)
 N 1784-1810 (vsi, nic)
+N 1806-1840 (Pohoří, nic)
+N 1841-1877 (Pohoří, 1x)
+N 1806-1843 (Semechnice, nic)
+N 1844-1880 (Semechnice, 1x)
+N 1881-1893 (Semechnice, nic)
 N 1806-1902 (Trnov, nic)
-O 1723-1784
-Z 1723-1797
+
+O 1723-1784 (farnost)
+O 1784-1834 (vsi, nic)
+O 1834-1916 (Pohoří, nic)
+O 1835-1934 (Semechnice, 3x)
+O 1835-1934 (Trnov, 2x)
+O 1784-1835 (Opočno, 1x)
+O 1836-1874 (Opočno, 1x)
+O 1875-1910 (Opočno, několik)
+
+Z 1723-1797 (farnost, několik v Trnově)
+Z 1784-1834 (Pohoří, Semechnice, Trnov, nic)
+Z 1835-1910 (Pohoří, nic)
+Z 1835-1928 (Semechnice, 1x)
+Z 1835-?    (Trnov - nezpracováno, živá)
+Z 1798-1835 (Opočno, nic)
+Z 1836-1866 (Opočno, nic)
+Z 1867-1883 (Opočno, několik, jedna rodina)
+Z 1883-1906 (Opočno, několik zemřelých v nemocnici)
+Z 1907-1928 (Opočno, několik zemřelých v nemocnici)
 
 Pouchov
 -------
@@ -172,6 +212,11 @@ Z 1843-1895 (Čánka + Nová Ves + Očelice + Přepychy + Zádolí + Bolehošť 
 Nejstarší záznamy jsou však děravé:
 N: 1636-X/1644, III/1647-IV/1649, VII/1659-VIII/1678
 O: V/1638-VIII/1644 a V/1663-1706
+
+Rokytnice v Orl. horách
+-----------------------
+O 1893-1928 (nic)
+Z 1893-1931 (nic)
 
 Rychnov nad Kněžnou
 -------------------
@@ -226,6 +271,7 @@ N 1689-1906 (mnoho)
 O 1689-1652
 O 1716-1718 (není index)
 O 1748-1906
+Z 1784-1904 (mnoho)
 
 Vysoké Mýto
 -----------
@@ -243,4 +289,5 @@ Z 1836-1926 (pouze Městec, řada osob)
 Zvole
 -----
 N 1826-1863 (pouze Doubravice, 3x)
+N 1905-1913 (2x ve Zvoli)
 Z 1830-1860 (pouze Doubravice, 1x)
