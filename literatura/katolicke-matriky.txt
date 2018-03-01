@@ -102,6 +102,16 @@ O 1784-1842 (nic)
 Z 1667-1770 (nic)
 Z 1893-1936 (nic)
 
+Chleny
+------
+N 1666-1872 (nic)
+N 1870-1915 (dvě rodiny)
+O 1685-1834 (nic)
+O 1833-1885 (1x Vrbice)
+Z 1688-1834 (nic)
+Z 1833-1893 (2x)
+Z 1894-1915 (nic)
+
 Choceň
 ------
 N 1806-1828 (Koldín, 1 rodina)
@@ -129,6 +139,14 @@ N 1826-1843
 N 1843-1919 (vsi, větší rodina v Tutlekách do roku 1890)
 O 1666-1722 (nic)
 O 1772-1893 (něco málo)
+
+Lično
+-----
+N 1847-1897 (Lično, Hoděčín, Ostašovice, nic)
+N 1837-1916 (Radostovice, jedna rodina)
+O 1800-1918 (Lično, Hoděčín, Ostašovice, nic)
+O 1837-1916 (Radostovice, nic)
+Z 1837-1916 (Radostovice, 2x)
 
 Lukavice (RK)
 -------------
