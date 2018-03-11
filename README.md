@@ -30,10 +30,16 @@ Kromě nich se zde vyskytují menší větve:
 * Šestajovice - později Králova Lhota a České Meziřičí, brzy vymřela
 * Trnov - několik generací, ale pak z matrik mizí
 
-V matrikách však není doložen žádný ze tří nositelů, uvedených v Soupisu poddaných podle víry z roku 1651:
-* Dorota Tošovského z Čánky
-* Jan Tošovský ze dvora v Tošově
-* Jiřík Tošovský z Ostřetína u Holic (ten je doložen v matrikách až později, viz dále)
+V matrikách však není doložen žádný z nositelů, uvedených ve známých soupisech:
+* Soupis poddaných podle víry (SPPV, 1651)
+   * Dorota Tošovského z Čánky
+   * Jan Tošovský ze dvora v Tošově
+   * Jiřík Tošovský z Ostřetína u Holic (ten je doložen v matrikách až později, viz dále)
+
+* Berní rula (1654)
+   * Tošovský z Českého Dubu
+   * Jiřík Tošovský z Roztok (u Šestajovic a Slavětína)
+   * Jiřík Tošovský z Ostřetína u Holic (shodný se záznamem v SPPV)
 
 ### 1650–1700
 
@@ -46,11 +52,6 @@ Kromě nich jsou zde i menší větve:
 * Ostřetín
 * Týniště nad Orlicí
 * Vrchoviny
-
-V berní rule z r. 1694 jsou uvedeni navzdory záznamům v matrikách pouze 3 nositelé:
-* Tošovský z Českého Dubu
-* Jiřík Tošovský z Roztok (u Šestajovic a Slavětína)
-* Jiřík Tošovský z Ostřetína u Holic
 
 ### 1700–1850
 
