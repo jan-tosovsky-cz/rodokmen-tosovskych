@@ -25,15 +25,15 @@ V tomto torzu nejstarších záznamů lze však rozpoznat dvě hlavní větve:
 * Jeníkovice - později Horní Černilov
 
 Kromě nich se zde vyskytují menší větve:
-* Šestajovice - později Králova Lhota a České Meziřičí, brzy vymřela
-* Slavětín - ojedinělý výskyt
-* Trnov - několik generací, ale pak z matrik mizí
 * Přepychy - ojedinělý výskyt
+* Slavětín - ojedinělý výskyt
+* Šestajovice - později Králova Lhota a České Meziřičí, brzy vymřela
+* Trnov - několik generací, ale pak z matrik mizí
 
 V matrikách však není doložen žádný ze tří nositelů, uvedených v Soupisu poddaných podle víry z roku 1651:
 * Dorota Tošovského z Čánky
 * Jan Tošovský ze dvora v Tošově
-* Jiřík Tošovský z Ostřetína u Holic
+* Jiřík Tošovský z Ostřetína u Holic (ten je doložen v matrikách až později, viz dále)
 
 ### 1650–1700
 
@@ -43,8 +43,9 @@ Mezi lety 1650 až 1700 se v na různých místech objevilo dalších 60 nositel
 
 Kromě nich jsou zde i menší větve:
 * Bolehošť
-* Vrchoviny
+* Ostřetín
 * Týniště nad Orlicí
+* Vrchoviny
 
 V berní rule z r. 1694 jsou uvedeni navzdory záznamům v matrikách pouze 3 nositelé:
 * Tošovský z Českého Dubu
