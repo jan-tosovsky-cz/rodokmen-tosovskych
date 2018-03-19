@@ -81,6 +81,10 @@ O 1883-1933 (mnoho, včetně manželek)
 Z 1793-1864 (1x 1828)
 Z 1865-1912 (mnoho)
 
+Český Dub
+---------
+N 1745-1764 (nic)
+
 Dobruška
 --------
 N 1799-1897
@@ -94,6 +98,8 @@ N 1642-1716 (nic)
 N 1716-1737 (jedna rodina v Ostřetíně)
 N 1737-1773 (jedna rodina v Ostřetíně)
 N 1774-1784 (1x v Ostřetíně)
+N 1877-1910 (Holice, nic)
+N 1845-1922 (Ředice, 2x kolem 1920)
 
 O 1670-1704 (nic)
 O 1704-1716 (2x v Ostřetíně)
@@ -101,10 +107,14 @@ O 1716-1736 (nic)
 O 1737-1773 (2x v Ostřetíně a Vysoké u Holic]
 O 1774-1784 (1x v Ostřetíně)
 O 1785-1861 (Holice, nic)
+O 1862-1880 (Holice, nic)
 O 1881-1914 (Holice, nic)
 
 Z 1672-1677 (nic)
 Z 1704-1716 (nic)
+Z 1716-1737 (několik v Ostřetíně)
+Z 1785-1824 (Holice, nic)
+Z 1785-1869 (Veliny, nic)
 
 Holohlavy
 ---------
@@ -113,7 +123,7 @@ O 1854-1891 (1x)
 
 Horní Jelení
 ------------
-N 1693-1784 (nic)
+N 1693-1815 (nic)
 N 1862-1910 (Horní Jelení, nic)
 
 O 1693-1784 (nic)
@@ -165,6 +175,13 @@ Chroustovice
 N 1784-1844 (farnost, nic)
 N 1845-1865 (Chroustovice, 1x)
 N 1865-1905 (Chroustovice, nic)
+O 1784-1844 (farnost, nic)
+O 1845-1901 (Chroustovice, nic)
+O 1845-1926 (Městec, Turov, Ostrov - nic)
+O 1845-1914 (Lhota, Bor, Žilovice - nic)
+O 1845-1935 (Březovice, Holešovice - nic)
+Z 1784-1844 (farnost, nic)
+Z 1845-1894 (Chroustovice, nic)
 
 Jaroměř
 -------
@@ -175,6 +192,10 @@ Z 1874-1914 (1x 1875)
 Jasenná
 -------
 N 1719-1883 (nic)
+
+Jenišovice
+----------
+N 1784-1887 (nic)
 
 Josefov
 -------
@@ -187,6 +208,10 @@ N 1826-1843
 N 1843-1919 (vsi, větší rodina v Tutlekách do roku 1890)
 O 1666-1722 (nic)
 O 1772-1893 (něco málo)
+O 1894-1930 (Kostelec, 1x 1928)
+O 1894-1930 (vsi, 1x Kostelecká Lhota)
+Z 1826-1855 (1x v Tutlekách)
+Z 1856-1900 (několik v Tutlekách a Kostelci)
 
 Lično
 -----
@@ -205,6 +230,10 @@ Náchod
 ------
 N 1670-1905 (2x N nemanž. 1826 + 1829 a 1x 1904)
 O 1835-1905 (2x 1903 a 1904)
+
+Nové Hrady
+----------
+N 1850-1949 (nic)
 
 Nové Město nad Metují
 ---------------------
@@ -269,6 +298,10 @@ O 1876-1934 (Ostřetín, několik)
 Z 1785-1869 (mnoho)
 Z (novější nejsou zatím živé)
 
+Potštejn
+--------
+N 1850-1877 (Potštejn, nic)
+
 Pouchov
 -------
 N 1784-1844 (nic)
@@ -292,6 +325,13 @@ Nejstarší záznamy jsou však děravé:
 N: 1636-X/1644, III/1647-IV/1649, VII/1659-VIII/1678
 O: V/1638-VIII/1644 a V/1663-1706
 
+Radhošť
+-------
+N 1784-1860 (nic)
+O 1784-1860 (nic)
+O 1880-1940 (1x 1914 Radhošť)
+Z 1784-1860 (nic)
+
 Rokytnice v Orl. horách
 -----------------------
 O 1893-1928 (nic)
@@ -304,7 +344,14 @@ N 1871-1914 (RK, několik v rodině soukeníka z Habrové)
 N 1871-1906 (Dubno, Karolín, Lipovka) (3x)
 N 1907-1914 (Dubno, Karolín, Lipovka) (nic)
 O 1835-1919 (RK, několik v rodině soukeníka z Habrové)
-O 1888-1924 (Dubno, Karolín, Lipovka) (nic)
+O 1865-1924 (Dubno, Karolín, Lipovka) (nic)
+O 1860-1922 (Městská Habrová, nic)
+
+Řepníky
+-------
+N 1809-1897 (3x kolem roku 1895 ve Střemošicích)
+O 1809-1897 (nic)
+Z 1809-1897 (jedna rodina kolem roku 1895 ve Střemošicích)
 
 Skuhrov nad Bělou
 -----------------
@@ -344,6 +391,16 @@ O 1714-1919
 N 1714-1753
 Z 1714-1832
 
+Uhersko
+-------
+N 1854-1901 (Opočno, 1x)
+
+Ústí nad Orlicí
+---------------
+N 1700-1902 (Ústí, 2x až kolem roku 1900)
+Z 1823-1918 (Ústí, 3x)
+
+
 Velká Jesenice
 --------------
 N 1689-1906 (mnoho)
@@ -355,6 +412,7 @@ Z 1784-1904 (mnoho)
 Vysoké Mýto
 -----------
 N 1700-1832 (nic)
+N 1833-1898 (nic)
 
 Vysoký Újezd
 ------------
@@ -364,6 +422,12 @@ O 1787-1927 (1x 1819, 2x po 1850, pak řada v Městci kolem 1900)
 Z 1787-1821 (pouze Městec, nic)
 (!) Z 1821-1836 pro Městec chybí
 Z 1836-1926 (pouze Městec, řada osob)
+
+Zámrsk
+------
+N 1784-1841 (nic)
+O 1784-1841 (nic)
+Z 1784-1841 (nic)
 
 Zvole
 -----
