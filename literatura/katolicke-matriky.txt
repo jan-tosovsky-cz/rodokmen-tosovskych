@@ -113,6 +113,7 @@ O 1881-1914 (Holice, nic)
 Z 1672-1677 (nic)
 Z 1704-1716 (nic)
 Z 1716-1737 (několik v Ostřetíně)
+Z 1737-1742 (00035)... 1785
 Z 1785-1824 (Holice, nic)
 Z 1785-1869 (Veliny, nic)
 
@@ -145,6 +146,10 @@ Z 1635-1660 (nic)
 Z 1678-1705 (Ostřetín, několik)
 Z 1706-1840 (nic)
 
+Horní Sloupnice
+---------------
+N 1711-1891 (nic)
+
 Hradec Králové
 --------------
 N 1667-1770 (1x 1675)
@@ -168,7 +173,8 @@ Choceň
 ------
 N 1806-1828 (Koldín, 1 rodina)
 N 1828-1841 (nic)
-N 1841-1889 (mimo Choceň, 1 rodina do 1860, pak nic)
+N 1841-1889 (vsi, 1 rodina do 1860, pak nic)
+N 1890-1914 (vsi, nic)
 
 Chroustovice
 ------------
@@ -220,6 +226,13 @@ N 1837-1916 (Radostovice, jedna rodina)
 O 1800-1918 (Lično, Hoděčín, Ostašovice, nic)
 O 1837-1916 (Radostovice, nic)
 Z 1837-1916 (Radostovice, 2x)
+
+Litomyšl
+--------
+N 1864-1901 (několik 1886-88)
+Z 1882-1902 (Litomyšl, 3x)
+Z 1903-1912 (1x 1904)
+Z 1912-1937 (1x 1915, 1x 1918)
 
 Lukavice (RK)
 -------------
@@ -316,6 +329,8 @@ O 1636-1678 (nic)
 O 1688-1730 (nic)
 O 1759-1835
 O 1833-1857
+O 1857-1895 (několik)
+O 1895-1929 (mnoho)
 Z 1636-1678 (nic)
 Z 1707-1707 (zbývá dodělat až do 1785)
 Z 1785-1843
@@ -337,10 +352,16 @@ Rokytnice v Orl. horách
 O 1893-1928 (nic)
 Z 1893-1931 (nic)
 
+Rybná nad Zdobnicí
+------------------
+N 1835-1902 (nic)
+O 1835-1890 (1x 1890)
+
 Rychnov nad Kněžnou
 -------------------
 N 1656-1662 (vsi)
 N 1871-1914 (RK, několik v rodině soukeníka z Habrové)
+N 1867-1914 (Bezděkov, Jedlina) (1x 1894)
 N 1871-1906 (Dubno, Karolín, Lipovka) (3x)
 N 1907-1914 (Dubno, Karolín, Lipovka) (nic)
 O 1835-1919 (RK, několik v rodině soukeníka z Habrové)
@@ -367,6 +388,8 @@ Solnice
 -------
 N 1685-1735
 N 1837-1893 (Ještětice, mnoho)
+N 1872-1897 (Solnice, 1x 1886, 1x 1895, 1x 1896)
+
 
 Studnice
 --------
@@ -399,7 +422,6 @@ N 1854-1901 (Opočno, 1x)
 ---------------
 N 1700-1902 (Ústí, 2x až kolem roku 1900)
 Z 1823-1918 (Ústí, 3x)
-
 
 Velká Jesenice
 --------------
