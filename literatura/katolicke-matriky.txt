@@ -64,7 +64,8 @@ N 1638-1899
 O 1638-1806
 O 1839-1858 (Častolovice, nic)
 O 1886-1920 (vsi, 2x)
-Z 1638-1799
+Z 1638-1749 (nic)
+Z 1750-1898 (několik 1805-1832 v Česticích, tamtéž ojediněle od roku 1859)
 
 Černíkovice
 -----------
@@ -225,6 +226,8 @@ N 1828-1841 (nic)
 N 1841-1889 (vsi, 1 rodina do 1860, pak nic)
 N 1890-1914 (vsi, nic)
 N 1896-1912 (Choceň, nic)
+Z 1811-1859 (několik v Koldíně)
+Z 1860-1897 (vsi, 1x 1895 Sudličkova Lhota)
 
 Chroustovice
 ------------
@@ -291,7 +294,7 @@ Z 1837-1916 (Radostovice, 2x)
 Litomyšl
 --------
 (od 1622)
-N 1837-1890 (Němčice, nic)
+N 1837-1890 (Němčice a Sedliště, nic)
 N 1864-1901 (několik 1886-88)
 Z 1882-1902 (Litomyšl, 3x)
 Z 1903-1912 (1x 1904)
@@ -312,6 +315,14 @@ O 1792-1832 (nic)
 O 1842-1893 (Ostřešany, nic)
 Z 1792-1832 (nic)
 Z 1910-1933 (Ostřešany, nic)
+
+Morašice
+--------
+(od 1656)
+N 1815-1858 (nic)
+O 1835-1858 (nic)
+O 1853-1940 (Sedlíšťka, nic)
+Z 1816-1858 (nic)
 
 Moravany
 --------
@@ -500,7 +511,10 @@ Sudslava
 --------
 (od 1646)
 N 1840-1861 (1 rodina)
+N 1862-1914 (1 rodina 1876-1888, pak několik od 1910)
+O 1848-1893 (2x Sudslava)
 Z 1808-1852 (2x okolo 1850)
+Z 1853-1914 (několik, Sudslava)
 
 Třebechovice pod Orebem
 -----------------------
@@ -514,9 +528,12 @@ Týniště nad Orlicí
 (od 1686, předtím Častolovice)
 N 1686-1688, následuje mezera (něco je v Častolovicích)
 N 1697-1703, následuje mezera (něco je v Častolovicích)
+N 1714-1833 (několik, Houdkovice)
+N 1834-1864 (nic)
+N 1864-1919 (několik po roce 1905, chybí matriky)
 O 1714-1919
-N 1714-1753
-Z 1714-1832
+Z 1714-1832 (několik v Houdkovicích)
+Z 1833-1895 (nic)
 
 Uhersko
 -------
@@ -527,7 +544,10 @@ N 1854-1901 (Opočno, 1x)
 ---------------
 (od 1626)
 N 1700-1902 (Ústí, 2x až kolem roku 1900)
+N 1700-1918 (vsi, nic)
+O 1700-1826 (nic)
 O 1891-1907 (00236) .....1918 (Ústí, nic)
+Z 1700-1826 (nic)
 Z 1823-1918 (Ústí, 3x)
 
 Velká Jesenice
