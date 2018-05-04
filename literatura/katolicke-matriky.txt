@@ -1,6 +1,12 @@
 Katolické matriky
 =================
 
+Bělá pod Bezdězem
+-----------------
+N 1872-1892 (nic)
+O 1885-1905 (nic)
+Z 1872-1932 (nic)
+
 Bílý Újezd 
 ----------
 (od 1663)
@@ -18,7 +24,7 @@ Bohuslavice nad Metují (komplet)
 ----------------------
 (od 1742, předtím Nové Město nad Metují)
 N 1742-1812 (pár výskytů)
-N 1812-1841 (v indexu jediný záznam, ale chybí v matrice)
+N 1812-1841 (1x 1824)
 N 1842-1900 (1x 1900)
 O 1742-1841 (2x)
 Z 1784-1837 (nic)
@@ -94,6 +100,8 @@ Z 1835-1897 (2x rodina původem z Pulic, 1x Hostinka, 1x Zájezd, obojí nedohl.
 (od 1636)
 N 1636-1792 (1x 1704, Králova Lhota)
 N 1793-1835 (nic)
+N 1872-1887 (České Meziříčí, několik)
+N 1887-1909 (České Meziříčí, několik)
 O 1652-1792 (1x 1704, Králova Lhota)
 O 1793-1856 (2x)
 O 1883-1933 (mnoho, včetně manželek)
@@ -123,6 +131,7 @@ Dobruška
 N 1799-1897
 O 1806-1910 (mimo Dka)
 O 1846-1891 (Dka)
+O 1892-1924 (Dka, několik)
 Z 1806-1886
 
 Holice
@@ -355,6 +364,12 @@ N 1856-1886 (mnoho)
 N 1886-1901 (Nový Hrádek pár)
 O 1826-1869 (nic)
 Z 1826-1869 (mnoho)
+
+Ondřejovice (Zlaté Hory)
+------------------------
+N 1871-1886 (nic)
+O 1856-1897 (nic)
+Z 1883-1917 (nic)
 
 Opočno
 ------
