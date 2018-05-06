@@ -23,11 +23,11 @@ Z 1848-1923 (několik)
 Bohuslavice nad Metují (komplet)
 ----------------------
 (od 1742, předtím Nové Město nad Metují)
-N 1742-1812 (pár výskytů)
-N 1812-1841 (1x 1824)
-N 1842-1900 (1x 1900)
+N 1742-1784 (pár výskytů)
+N 1784-1841 (mnoho v Černčicích, několik v Bohuslavicích, 1x Vršovka)
+N 1842-1900 (Bohuslavice, 1x 1900)
 O 1742-1841 (2x)
-Z 1784-1837 (nic)
+Z 1784-1837 (mnoho v Černčicích, jinde nic)
 
 Borohrádek
 ----------
