@@ -27,6 +27,7 @@ N 1742-1784 (pár výskytů)
 N 1784-1841 (mnoho v Černčicích, několik v Bohuslavicích, 1x Vršovka)
 N 1842-1900 (Bohuslavice, 1x 1900)
 O 1742-1841 (2x)
+Z 1742-1784 (2x Černčice, 1x Vršovka)
 Z 1784-1837 (mnoho v Černčicích, jinde nic)
 
 Borohrádek
@@ -63,6 +64,13 @@ N 1828-1880 (nic)
 O 1827-1862 (nic)
 Z 1785-1812 (nic)
 
+Býšť
+----
+(od 1788, předtím Vysoké Chvojno)
+N 1785-1894 (nic)
+O 1785-1894 (nic)
+Z 1785-1894 (nic)
+
 Častolovice
 -----------
 (od 1638)
@@ -86,6 +94,8 @@ Z 1836-1906 (pouze Černíkovice, vsi zatím nejsou)
 Černilov
 --------
 (od 1718, předtím Holohlavy)
+N 1718-1808 (nic)
+N 1808-1898 (několik od 1823 v Horním Černilově)
 Z komplet (nic)
 
 Česká Skalice
@@ -264,6 +274,12 @@ Jasenná
 -------
 (od 1719, předtím Holohlavy)
 N 1719-1883 (nic)
+O 1719-1779 (nic)
+O 1780-1823 TODO (není index)
+O 1823-1862 (nic)
+Z 1719-1779 (nic)
+Z 1780-1823 TODO (není index)
+Z 1823-1862 (1x v Novém Plese, rodilý z Pouchova)
 
 Jenišovice
 ----------
@@ -430,7 +446,14 @@ Pouchov
 -------
 (od 1784, předtím Hradec Králové)
 N 1784-1844 (nic)
+N 1844-1872 (Pouchov, nic)
+N 1844-1878 (Rusek, nic)
+N 1844-1871 (Slezské Předměstí, nic)
+N 1843-1882 (Věkoše, nic)
+N 1841-1910 (Piletice, nic)
 O 1784-1854 (nic)
+O 1851-1889 (Pouchov, Správčice, Slezské Předměstí, Věkoše) (nic)
+O 1854-1904 (Piletice, Rusek, Slatina, Podhůří + Svinárky) (nic)
 Z 1784-1865 (nic)
 
 Přepychy
@@ -477,10 +500,12 @@ Rychnov nad Kněžnou
 -------------------
 (od 1629)
 N 1656-1662 (vsi)
+N 1712-1770 (nic)
 N 1871-1914 (RK, několik v rodině soukeníka z Habrové)
 N 1867-1914 (Bezděkov, Jedlina) (1x 1894)
 N 1871-1906 (Dubno, Karolín, Lipovka) (3x)
 N 1907-1914 (Dubno, Karolín, Lipovka) (nic)
+O 1712-1770 (nic)
 O 1835-1919 (RK, několik v rodině soukeníka z Habrové)
 O 1865-1924 (Dubno, Karolín, Lipovka) (nic)
 O 1860-1922 (Městská Habrová, nic)
@@ -534,7 +559,8 @@ Z 1853-1914 (několik, Sudslava)
 Třebechovice pod Orebem
 -----------------------
 (od 1685)
-N 1685-1863 (TODO)
+N 1685-1863 (mnoho v Jeníkovicích)
+N 1864-1894 (1x Ledce v indexu, ale matrika N pro Ledce je živá)
 Z 1685-1695 (po str. 293) -1715 (bez indexu)
 Z 1716-1784
 
@@ -547,6 +573,7 @@ N 1714-1833 (několik, Houdkovice)
 N 1834-1864 (nic)
 N 1864-1919 (několik po roce 1905, chybí matriky)
 O 1714-1919
+Z 1697-1702 (1x Houdkovice), následuje mezera
 Z 1714-1832 (několik v Houdkovicích)
 Z 1833-1895 (nic)
 
@@ -569,9 +596,12 @@ Velká Jesenice
 --------------
 (od 1689)
 N 1689-1906 (mnoho)
-O 1689-1652
+O 1689-1701 (1x) (M)
+O 1701-1716 (1x) (M)
 O 1716-1718 (není index)
+O .... TODO
 O 1748-1906
+Z 1689-1784 (několik)
 Z 1784-1904 (mnoho)
 
 Vraclav
