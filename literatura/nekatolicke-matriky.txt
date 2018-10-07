@@ -10,6 +10,7 @@ N 1870-1909 (nic)
 L01-00008_1878-1911_N+N_index (nic)
 L01-00010_1856-1919_N_index (nic)
 L01-00012_1842-1919_O_index (nic)
+R05-00001 todo CZEC0004D_R5-1_M_00100+
 R05-00002_1831-1851_N+N_index (nic)
 
 Holohlavy

@@ -105,6 +105,11 @@ NOZ 1651-1834 (1x Z 1710 a 2x O kolem 1750)
 N 1835-1897 (2x rodina původem z Pulic, 1x 1894 Hostinka, nedohledáno)
 Z 1835-1897 (2x rodina původem z Pulic, 1x Hostinka, 1x Zájezd, obojí nedohl.)
 
+Česká Třebová
+-------------
+(od 1635)
+O 1774-1910 (nic)
+
 České Meziříčí
 --------------
 (od 1636)
@@ -135,6 +140,12 @@ O 1837-1874 (nic)
 Z 1784-1836 (1 rodina do roku 1800, Velké Koloděje)
 Z 1837-1874 (nic)
 
+Dobré
+-----
+(od 1787, předtím Bílý Újezd)
+N 1787-1839 (nic)
+O 1787-1839 (nic)
+
 Dobruška
 --------
 (od 1799, starší matriky shořely)
@@ -143,6 +154,12 @@ O 1806-1910 (mimo Dka)
 O 1846-1891 (Dka)
 O 1892-1924 (Dka, několik)
 Z 1806-1886
+
+Dolní Krupá
+-----------
+N 1760-1857 (nic)
+O 1760-1857 (nic)
+Z 1760-1857 (nic)
 
 Holice
 ------
@@ -210,6 +227,12 @@ Horní Sloupnice
 (od 1711, předtím Cerekvice nad Loučnou)
 N 1711-1891 (nic)
 
+Horní Studenec
+--------------
+N 1791-1878 (nic)
+O 1791-1878 (nic)
+Z 1791-1878 (nic)
+
 Hradec Králové
 --------------
 (od 1667)
@@ -248,6 +271,15 @@ N 1896-1912 (Choceň, nic)
 Z 1811-1859 (několik v Koldíně)
 Z 1860-1897 (vsi, 1x 1895 Sudličkova Lhota)
 
+Chotěboř
+--------
+N 1875-1900 (nic)
+
+Chrast
+------
+N 1889-1908 (nic)
+O 1842-1927 (nic)
+
 Chroustovice
 ------------
 (od 1665)
@@ -263,10 +295,16 @@ O 1845-1935 (Březovice, Holešovice - nic)
 Z 1784-1844 (farnost, nic)
 Z 1845-1894 (Chroustovice, nic)
 
+Krucemburk (Ždírec nad Doubravou a okolí)
+----------
+N 1842-1891 (nic)
+
 Jaroměř
 -------
 (od 1628)
 N 1628-1908 (3x kolem 1875)
+N 1880-1948 (Rychnovek, nic)
+N 1882-1884 (Dolany, nic)
 O 1650-1914 (1x 1874)
 Z 1874-1914 (1x 1875)
 
@@ -275,10 +313,12 @@ Jasenná
 (od 1719, předtím Holohlavy)
 N 1719-1883 (nic)
 O 1719-1779 (nic)
-O 1780-1823 TODO (není index)
+O 1780-1784 TODO (není index)
+O 1784-1823 (nic)
 O 1823-1862 (nic)
 Z 1719-1779 (nic)
-Z 1780-1823 TODO (není index)
+Z 1780-1784 TODO (není index)
+Z 1784-1823 (nic)
 Z 1823-1862 (1x v Novém Plese, rodilý z Pouchova)
 
 Jenišovice
@@ -307,18 +347,32 @@ Z 1724-1772 (nic)
 Z 1826-1855 (1x v Tutlekách)
 Z 1856-1900 (několik v Tutlekách a Kostelci)
 
+Ledeč nad Sázavou
+-----------------
+(od 1634)
+O 1790-1853 (nic)
+O 1835-1908 (vsi, nic)
+
+Liberk
+------
+(od 1755, předtím Rychnov nad Kněžnou)
+N 1887-1905 (nic)
+O 1846-1887 (nic)
+Z 1839-1902 (nic)
+
 Lično
 -----
 (od 1784, předtím Častolovice)
 N 1847-1897 (Lično, Hoděčín, Ostašovice, nic)
 N 1837-1916 (Radostovice, jedna rodina)
-O 1800-1918 (Lično, Hoděčín, Ostašovice, nic)
+O 1784-1918 (Lično, Hoděčín, Ostašovice, nic)
 O 1837-1916 (Radostovice, nic)
 Z 1837-1916 (Radostovice, 2x)
 
 Litomyšl
 --------
 (od 1622)
+N 1622-1784 (nic)
 N 1837-1890 (Němčice a Sedliště, nic)
 N 1864-1901 (několik 1886-88)
 Z 1882-1902 (Litomyšl, 3x)
@@ -353,11 +407,20 @@ Moravany
 --------
 (od 1785, předtím Horní Roveň)
 
+Moravská Ostrava
+----------------
+N 1893-1932 (Moravská Ostrava, Mariánské Hory, Nová Ves, Přívoz) (nic)
+
 Náchod
 ------
 (od 1652)
 N 1670-1905 (2x N nemanž. 1826 + 1829 a 1x 1904)
 O 1835-1905 (2x 1903 a 1904)
+
+Nekoř
+-----
+(od 1705, předtím Letohrad)
+O 1834-1949 (2x)
 
 Nové Hrady
 ----------
@@ -386,6 +449,10 @@ Ondřejovice (Zlaté Hory)
 N 1871-1886 (nic)
 O 1856-1897 (nic)
 Z 1883-1917 (nic)
+
+Opatovice nad Labem
+-------------------
+NOZ 1830-1911 (nic)
 
 Opočno
 ------
@@ -422,6 +489,10 @@ Z 1836-1866 (Opočno, nic)
 Z 1867-1883 (Opočno, několik, jedna rodina)
 Z 1883-1906 (Opočno, několik zemřelých v nemocnici)
 Z 1907-1928 (Opočno, několik zemřelých v nemocnici)
+
+Osice
+-----
+O 1823-1887 (Osice, nic)
 
 Ostřetín
 --------
@@ -469,6 +540,7 @@ O 1857-1895 (několik)
 O 1895-1929 (mnoho)
 Z 1636-1678 (nic)
 Z 1707-1707 (zbývá dodělat až do 1785)
+Z 1758-1766 (jeden záznam)
 Z 1785-1843
 Z 1843-1895 (Čánka + Nová Ves + Očelice + Přepychy + Zádolí + Bolehošť + Lhota)
 
@@ -490,11 +562,19 @@ Rokytnice v Orl. horách
 O 1893-1928 (nic)
 Z 1893-1931 (nic)
 
+Rtyně v Podkrkonoší
+-------------------
+(od 1785, předtím Červený Kostelec)
+N 1846-1894 (nic)
+O 1846-1894 (nic)
+Z 1846-1894 (nic)
+
 Rybná nad Zdobnicí
 ------------------
 (od 1778, předtím Žamberk)
 N 1835-1902 (nic)
 O 1835-1890 (1x 1890)
+Z 1835-1948 (nic)
 
 Rychnov nad Kněžnou
 -------------------
@@ -541,6 +621,12 @@ N 1685-1735
 N 1837-1893 (Ještětice, mnoho)
 N 1872-1897 (Solnice, 1x 1886, 1x 1895, 1x 1896)
 
+Sopotnice
+---------
+(od 1677)
+N 1677-1784 (nic)
+O 1784-1949 (nic)
+
 Studnice
 --------
 (od 1784, předtím Česká Skalice)
@@ -556,6 +642,12 @@ O 1848-1893 (2x Sudslava)
 Z 1808-1852 (2x okolo 1850)
 Z 1853-1914 (několik, Sudslava)
 
+Světlá nad Sázavou
+------------------
+(od 1659)
+N 1659-1881 (nic)
+O 1659-1836 (nic)
+
 Třebechovice pod Orebem
 -----------------------
 (od 1685)
@@ -563,6 +655,10 @@ N 1685-1863 (mnoho v Jeníkovicích)
 N 1864-1894 (1x Ledce v indexu, ale matrika N pro Ledce je živá)
 Z 1685-1695 (po str. 293) -1715 (bez indexu)
 Z 1716-1784
+
+Trutnov
+-------
+N 1867-1894 (nic)
 
 Týniště nad Orlicí
 ------------------
@@ -582,15 +678,22 @@ Uhersko
 (od 1782, předtím Chroustovice)
 N 1854-1901 (Opočno, 1x)
 
+Úpice
+------
+N 1863-1900 (nic)
+
 Ústí nad Orlicí
 ---------------
 (od 1626)
 N 1700-1902 (Ústí, 2x až kolem roku 1900)
+N 1902-1911 (Ústí, 2x kolem 1908) M
 N 1700-1918 (vsi, nic)
 O 1700-1826 (nic)
-O 1891-1907 (00236) .....1918 (Ústí, nic)
+O 1891-1918 (Ústí, nic)
+O 1896-1917 (Kerhartice, nic)
 Z 1700-1826 (nic)
 Z 1823-1918 (Ústí, 3x)
+Z 1901-1925 (Kerhartice, nic)
 
 Velká Jesenice
 --------------
@@ -598,8 +701,8 @@ Velká Jesenice
 N 1689-1906 (mnoho)
 O 1689-1701 (1x) (M)
 O 1701-1716 (1x) (M)
-O 1716-1718 (není index)
-O .... TODO
+O 1716-1728 (2x) (M)
+O 1728-1748 (2x) (M)
 O 1748-1906
 Z 1689-1784 (několik)
 Z 1784-1904 (mnoho)
@@ -644,5 +747,5 @@ Zvole
 -----
 (od 1787, předtím Velká Jesenice)
 N 1826-1863 (pouze Doubravice, 3x)
-N 1905-1913 (2x ve Zvoli)
+N 1905-1913 (pouze Zvole, 2x)
 Z 1830-1860 (pouze Doubravice, 1x)
