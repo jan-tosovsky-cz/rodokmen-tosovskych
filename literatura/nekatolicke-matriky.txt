@@ -25,6 +25,7 @@ Holohlavy
 O 1927-1936 (nic)
 Z 1920-1932 (nic)
 
+
 Choceň
 ------
 N 1863-1902 (nic)
@@ -64,6 +65,7 @@ O 1878-1911 (nic)
 Třebechovice pod Orebem
 -----------------------
 O 1871-1899 (nic)
+O 1899-1928 M (nic)
 Z 1871-1902 (nic)
 
 Vysoké Mýto
