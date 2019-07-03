@@ -11,17 +11,31 @@ Jaroměř
 -------
 O 1921-1932
 
-
 Litomyšl
 --------
+O 1879-1939 M (nic)
 Z 1912-1926 (2x - záznamy též v katolických matrikách)
 Z 1927-1938 (nic)
+
+Náchod
+------
+O 1900-1926 M (nic)
+Z 1901-1929 (nic)
+
+Nová Paka
+---------
+O 1908-1929 (nic)
+Z 1904-1929 (nic)
 
 Nové Město nad Metují
 ---------------------
 N 1868-1905 (nic)
 O 1872-1935 (nic)
 Z 1871-1923 (nic)
+
+Pardubice
+---------
+O 1873-1930 (nic)
 
 Rychnov nad Kněžnou
 -------------------
@@ -36,4 +50,10 @@ Vysoké Mýto
 -----------
 N 1877-1907 (nic)
 O 1884-1923 (nic)
+O 1923-1932 TODO
 Z 1881-1934 (nic)
+
+Žamberk
+-------
+N 1894-1949 (nic)
+O 1901-1949 (nic)
