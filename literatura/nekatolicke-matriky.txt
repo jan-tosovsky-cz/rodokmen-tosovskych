@@ -5,13 +5,29 @@ Bohuslavice
 -----------
 N 1870-1909 (nic)
 
+Bučina (Cerekvice nad Loučnou)
+------------------------------
+N 1885-1903 (nic)
+O 1890-1929 (nic)
+Z 1888-1911 (nic)
+
 Černilov
 --------
 L01-00008_1878-1911_N+N_index (nic)
 L01-00010_1856-1919_N_index (nic)
 L01-00012_1842-1919_O_index (nic)
-R05-00001 todo CZEC0004D_R5-1_M_00100+
+R05-00001_1785-1831_N (nic)
 R05-00002_1831-1851_N+N_index (nic)
+R05-00003_1851-1856_N (nic)
+R05-00004_1857-1862_N (nic)
+R05-00005_1863-1871_N (nic)
+R05-00006_1872-1883_N (nic)
+R05-00014_1883-1902_N TODO
+R05-00015_1903-1911_N TODO
+
+Dolní Sloupnice
+---------------
+Z 1889-1931 (nic)
 
 Dvakačovice (kvůli Ostřešanům)
 -----------
@@ -25,14 +41,16 @@ Holohlavy
 O 1927-1936 (nic)
 Z 1920-1932 (nic)
 
-
 Choceň
 ------
 N 1863-1902 (nic)
+O 1883-1924 (nic)
+Z 1863-1906 (nic)
 
 Chvaletice (možná Ostřešany)
 ----------
-R11-00006_1883-1893_N TODO
+N 1883-1893 TODO (František *10.10.1883 zde není)
+N 1893-1900 TODO
 
 Klášter nad Dědinou
 -------------------
@@ -49,10 +67,17 @@ Z 1872-1919 (2x, 1907 Bolehošť)
 Litomyšl
 --------
 O 1923-1936 (nic)
+Z 1923-1936 (nic)
 
 Lozice
 ------
 N 1869-1895 (nic)
+
+Pardubice
+---------
+N 1902-1915 (nic)
+O 1924-1932 (nic)
+Z 1903-1931 (nic)
 
 Semonice
 --------
