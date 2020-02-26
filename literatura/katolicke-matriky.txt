@@ -1,23 +1,43 @@
 Katolické matriky
 =================
 
+Bartošovice v Orl. horách
+-------------------------
+N 1821-1948 (nic)
+
 Bělá pod Bezdězem
 -----------------
 N 1872-1892 (nic)
 O 1885-1905 (nic)
 Z 1872-1932 (nic)
 
+Bezděkov nad Metují
+-------------------
+N 1860-1949 (nic)
+O 1860-1949 (nic)
+Z 1860-1949 (nic)
+
+Bílá Třemešná
+--------------
+N 1873-1908 (nic)
+O 1869-1949 (nic)
+Z 1857-1901 (nic)
+
 Bílý Újezd 
 ----------
 (od 1663)
 N 1663-1784 (nic)
-N 1806-1834
+N 1784-1790 (nic)
+N 1791-1805 (nic)
+N 1806-1832 (nic)
+N 1833-1845 (1x Hroška)
 N 1845-1857 (několik)
-N 1858-1872
-N 1873-1903
+N 1858-1872 (několik)
+N 1873-1903 (několik)
 O 1663-1805 (nic)
 O 1806-1908 (několik)
-Z 1663-1784 (nic)
+O 1909-1936 (2x)
+Z 1663-1847 (nic)
 Z 1848-1923 (několik)
 
 Bohuslavice nad Metují (komplet)
@@ -27,20 +47,36 @@ N 1742-1784 (pár výskytů)
 N 1784-1841 (mnoho v Černčicích, několik v Bohuslavicích, 1x Vršovka)
 N 1842-1900 (Bohuslavice, 1x 1900)
 O 1742-1841 (2x)
+O 1841-... živá
 Z 1742-1784 (2x Černčice, 1x Vršovka)
 Z 1784-1837 (mnoho v Černčicích, jinde nic)
+Z 1837-... živá
+
+Bojanov
+--------
+N 1840-1904 (nic)
+O 1840-1909 (nic)
+Z 1861-1920 (nic)
 
 Borohrádek
 ----------
 (od 1700, předtím ?)
 N 1725-1779 (nic)
-N 1849-1902 (Borohrádek) (nic)
-N 1903-1918 (Borohrádek) (nic)
+N 1849-1918 (Borohrádek) (nic)
+N 1858-1902 (Malá Čermná) (nic)
+N 1851-1915 (Velká Čermná) (nic)
+N 1851-1915 (Šachov) (nic)
+N 1851-1949 (Chotiv, Moravsko, Častolovické Horky) TODO živá
+N 1851-1889 (Zdelov) (nic)
+N 1849-1883 (Číčová) (nic)
+N 1876-1899 (Žďár, Světlá, Chotiv) (1x 1899 Žďár)
 O 1725-1779 (nic)
-O 1877-1909 (Borohrádek) (nic)
+O 1851-1909 (Borohrádek) (nic)
 O 1856-1923 (Zdelov, Moravsko) (nic)
-O 1854-1900 (Žďár nad Orlicí, Světlá) (nic)
+O 1854-1900 (Žďár, Světlá, Chotiv) (nic)
 Z 1725-1779 (nic)
+Z 1881-1930 (Borohrádek) (nic)
+Z 1873-1929 (Žďár, Světlá, Chotiv) (nic)
 
 Brandýs nad Orlicí
 ------------------
@@ -55,7 +91,8 @@ Z 1898-1939 (2x Rozsocha)
 
 Broumov
 -------
-N (1894-1898) (Broumov, nic)
+N 1894-1898 (Broumov, nic)
+O 1784-1949 (2x)
 
 Boušín (u České Skalice)
 ------------------------
@@ -77,16 +114,27 @@ N 1785-1894 (nic)
 O 1785-1894 (nic)
 Z 1785-1894 (nic)
 
+Cerekvice nad Loučnou
+---------------------
+N 1618-1876 (nic)
+O 1625-1876 (nic)
+Z 1784-1876 (nic)
+
 Častolovice
 -----------
 (od 1638)
 N 1638-1899
-O 1638-1806
+O 1638-1809
+O 1809-1838
 O 1839-1858 (Častolovice, nic)
 O 1886-1920 (vsi, 2x)
 O 1910-1939 M (1x Čestice, 2x Olešnice)
 Z 1638-1749 (nic)
 Z 1750-1898 (několik 1805-1832 v Česticích, tamtéž ojediněle od roku 1859)
+
+Čepirohy
+--------
+(viz Slatinice)
 
 Černíkovice
 -----------
@@ -118,17 +166,29 @@ O 1899-1949 Ž (1x Černilov, 1x Libřice)
 Z 1718-1898 (nic)
 Z 1899-1949 Ž (2x Horní Černilov)
 
+Červený Kostelec
+----------------
+N 1877-1907 (nic)
+
 Česká Skalice
 -------------
 (od 1651)
 NOZ 1651-1834 (1x Z 1710 a 2x O kolem 1750)
 N 1835-1897 (2x rodina původem z Pulic, 1x 1894 Hostinka, nedohledáno - živá)
+O 1835-1877 (1x 1869 Skalice)
+O 1898-1940 M (Česká Skalice 2x)
 Z 1835-1897 (2x rodina původem z Pulic, 1x Hostinka, 1x Zájezd, obojí nedohl.)
 
 Česká Třebová
 -------------
 (od 1635)
 O 1774-1910 (nic)
+
+České Heřmanice
+---------------
+N 1711-1796 (nic)
+O 1858-1913 (nic)
+Z 1873-1937 (nic)
 
 České Meziříčí
 --------------
@@ -153,6 +213,12 @@ Z 1865-1912 (mnoho)
 Český Dub
 ---------
 N 1745-1764 (nic)
+
+Číbuz
+-----
+N 1786-1949 (2x kolem 1900 v Malé/Velké Skalici)
+O 1786-1949 (nic)
+Z 1786-1949 (1x kolem 1900 Malá Skalice)
 
 Dašice
 ------
@@ -193,6 +259,7 @@ N 1766-1835 (nic)
 N 1836-1854 TODO
 N 1855-1900 (nic)
 O 1766-1835 (nic)
+O 1834-1858 M (1x 1847 Nedvězí)
 Z 1766-1835 (nic)
 
 Dolní Krupá
@@ -200,6 +267,14 @@ Dolní Krupá
 N 1760-1857 (nic)
 O 1760-1857 (nic)
 Z 1760-1857 (nic)
+
+Dolní Lánov
+-----------
+O 1844-1949 (nic)
+
+Dubenec (Velichovky)
+--------------------
+NOZ 1803-1880 (nic)
 
 Heřmanice (Jaroměř)
 -------------------
@@ -221,6 +296,7 @@ N 1716-1737 (jedna rodina v Ostřetíně)
 N 1737-1773 (jedna rodina v Ostřetíně)
 N 1774-1784 (1x v Ostřetíně)
 N 1877-1910 (Holice, nic)
+N 1908-1919 (Holice, nic)
 N 1845-1922 (Ředice, 2x kolem 1920)
 
 O 1670-1704 (nic)
@@ -243,49 +319,95 @@ Z 1785-1869 (Veliny, nic)
 Holohlavy
 ---------
 (od 1667)
-NOZ 1667-1870 (jedna svatba)
-O 1854-1891 (1x)
+N 1667-1870 (nic)
+O 1667-1891 (jedna svatba)
+Z 1854-1891 (1x)
 
 Horní Jelení
 ------------
 (od 1693, předtím Holice)
 N 1693-1815 (nic)
-N 1862-1910 (Horní Jelení, nic)
-N 1858-1909 (Dolní Jelení) TODO
+N 1815-1862 (Horní Jelení) (nic)
+N 1815-1862 (Dolní Jelení) (nic)
+N 1862-1910 (Horní Jelení) (nic)
+N 1858-1909 (Dolní Jelení) (nic)
 N 1858-... (Malá Čermná) živá
-O 1693-1784 (nic)
-O 1785-1834 (nic)
-O 1835-... živá
-Z 1693-1784 (nic)
-Z 1832-1877 (nic)
+O 1693-1878 (nic)
+O 1876-1939 (Malá Čermná) (nic)
+O 1878-... živá
+Z 1693-1908 (nic)
 
 Horní Roveň
 -----------
 (od 1635)
 N 1635-1660 (2x až od roku 1655 v Ostřetíně)
 N mezera
-N 1678-1705 (Ostřetín, mnoho, 2 rodiny)
+N 1678-1705 (Ostřetín, mnoho, 2 rodiny) TODO ostatní lokality
 N 1706-1840 (nic)
+N 1791-1890 (nic)
 
 O 1635-1660 (nic)
 O 1678-1705 (Ostřetín, 2x)
 O 1706-1790 (1x)
 O 1791-1840 (nic)
+O 1840-1872 (Horní + Dolní Roveň) (nic)
+O 1840-1872 (Platěnice) TODO
+O 1840-...  (Litětiny, Čeradice) živá
 
 Z 1635-1660 (nic)
-Z 1678-1705 (Ostřetín, několik)
+Z 1678-1705 (Ostřetín, několik) TODO ostatní lokality
 Z 1706-1840 (nic)
+Z 1840-1855 (Horní + Dolní Roveň) TODO
+Z 1855-1880 (Horní + Dolní Roveň) TODO
+Z 1855-...  (Litětiny, Čeradice) živá
+Z 1840-1859 (Platěnice) TODO
+Z 1860-...  (Platěnice) živá
 
 Horní Sloupnice
 ---------------
 (od 1711, předtím Cerekvice nad Loučnou)
 N 1711-1891 (nic)
+O 1711-1891 (nic)
+Z 1711-1891 (nic)
 
 Horní Studenec
 --------------
 N 1791-1878 (nic)
 O 1791-1878 (nic)
 Z 1791-1878 (nic)
+
+Hořičky
+-------
+N 1680-1806 (nic)
+N 1806-1849 (Hořičky) TODO
+N 1850-1893 (Hořičky) TODO
+N 1806-1863 (Chlístov) TODO
+N 1806-1843 (Křižanov) TODO
+N 1843-1884 (Křižanov) TODO
+N 1806-1856 (Lhota pod Hořičkami) TODO
+N 1806-1843 (Libňatov) TODO
+N 1843-1875 (Libňatov) TODO
+N 1875-1891 (Libňatov) TODO
+N 1806-1840 (Litoboř) TODO
+N 1840-1874 (Litoboř) TODO
+N 1806-1863 (Mezilečí) TODO
+N 1806-1884 (Nový Dvůr) TODO
+N 1806-1879 (Posadov) TODO
+N 1806-1862 (Proruby) TODO
+
+O 1680-1806 (nic)
+O 1806-1864 (Hořičky) (nic)
+O 1806-1879 (Chlístov) (nic)
+O 1806-1941 (Kalousov) živá
+O 1806-1930 (Komárov) živá
+O 1806-1891 (Křižanov) (nic)
+O 1806-1870 (Lhota pod Hořičkami) TODO
+O 1806-1875 (Libňatov) TODO
+O 1857-1895 (Litoboř) TODO
+O 1806-1903 (Mezilečí) (nic)
+O 1806-1918 (Proruby) (nic)
+
+Z 1680-1806 (nic)
 
 Hradec Králové
 --------------
@@ -295,6 +417,9 @@ N 1784-1896 (nic)
 O 1667-1770 (nic)
 O 1784-1842 (nic)
 O 1843-1906 (HK, Malšovice, Svinary) (nic)
+O 1907-1932 (Malšovice+) TODO
+O 1907-1925 (HK) TODO
+O 1925-1940 (HK) 1x 1926
 Z 1667-1770 (nic)
 Z 1893-1936 (nic)
 
@@ -306,7 +431,11 @@ N 1652-1800 (nic)
 Hronov
 ------
 N 1742-1891 (nic)
-O 1889-1909 (Velké Poříčí, od roku 1906 2x)
+N 1892-1911 (4x Hronov)
+O 1889-1909 M (Velké Poříčí, od roku 1906 2x)
+O 1909-1938 M (Velké Poříčí, 2x)
+O 1896-1940 (1x 1903)
+Z 1891-1901 (nic)
 Z 1904-1915 (Velké Poříčí, nic)
 
 Chleny
@@ -330,6 +459,7 @@ N 1828-1841 (nic)
 N 1841-1889 (vsi, 1 rodina do 1860, pak nic)
 N 1890-1914 (vsi, nic)
 N 1896-1912 (Choceň, nic)
+O 1886-1920 (nic)
 Z 1811-1859 (několik v Koldíně)
 Z 1860-1897 (vsi, 1x 1895 Sudličkova Lhota)
 
@@ -337,10 +467,18 @@ Chotěboř
 --------
 N 1875-1900 (nic)
 
+Choustníkovo Hradiště
+---------------------
+O 1765-1858 (nic, 1x Tisovský 1841)
+Z 1765-1939 (nic)
+
 Chrast
 ------
 N 1889-1908 (nic)
+O 1709-1829 (nic)
+O 1830-1842 TODO
 O 1842-1927 (nic)
+Z 1864-1911 (nic)
 
 Chroustovice
 ------------
@@ -359,7 +497,16 @@ Z 1845-1894 (Chroustovice, nic)
 
 Chrudim
 -------
-N 1867-1907 (nic)
+N 1849-1907 (nic)
+O 1885-1901 TODO
+Z 1851-1897 (nic)
+
+Chvalkovice
+-----------
+(od 1708, předtím Choustníkovo Hradiště)
+N 1708-1880 (nic)
+O 1708-1836 (nic)
+Z 1708-1880 (nic)
 
 Krucemburk (Ždírec nad Doubravou a okolí)
 ----------
@@ -381,21 +528,23 @@ Jasenná
 -------
 (od 1719, předtím Holohlavy)
 N 1719-1883 (nic)
+N 1878-1901 (Jasenná) TODO
 O 1719-1779 (nic)
-O 1780-1784 TODO (není index)
+O 1780-1784 M (nic)
 O 1784-1823 (nic)
 O 1823-1862 (nic)
 O 1868-1920 (Jasenná, nic)
 O 1854-1902 (Starý Ples, nic)
 O 1843-1899 (Nový Ples, nic)
 O 1852-1886 (Rasošky, nic)
-Z 1719-1779 (nic)
-Z 1780-1784 TODO (není index)
-Z 1784-1823 (nic)
+Z 1719-1823 (nic)
 Z 1823-1862 (1x v Novém Plese, rodilý z Pouchova)
+Z 1871-1912 (Jasenná) TODO od str. 70
 
 Javornice
 ---------
+N 1884-1904 (Javornice, nic)
+O 1859-1902 (Javornice, nic)
 Z 1904-1924 (nic)
 
 Jenišovice
@@ -408,12 +557,23 @@ Josefov
 (od 1784, předtím Jaroměř)
 NOZ 1784-1853 (nic)
 
+Klášterec nad Orlicí
+--------------------
+N 1806-1949 (nic)
+O 1806-1949 (nic)
+Z 1806-1903 (nic)
+
+Knířov (Vanice)
+---------------
+Z 1787-1949 (nic)
+
 Kostelec nad Orlicí
 -------------------
 (od 1623)
 N 1623-1722 (nic)
 N 1724-1772 (nic)
-N 1826-1903 (1x 1877)
+N 1826-1843 (nic)
+N 1843-1919 (Kostelec, 1x 1877)
 N 1843-1919 (vsi, větší rodina v Tutlekách do roku 1890)
 O 1666-1722 (nic)
 O 1724-1772 (nic)
@@ -424,18 +584,40 @@ Z 1724-1772 (nic)
 Z 1826-1855 (1x v Tutlekách)
 Z 1856-1900 (několik v Tutlekách a Kostelci)
 
+Králíky
+-------
+N 1758-1853 (nic)
+
+Kukleny
+-------
+N 1786-1816 (2 rodiny Plačice a Pražské Předměstí)
+O 1786-1816 (2x 1796 Plačice)
+Z 1786-1816 (několik v Plačicích)
+Z 1914-1919 (1x dítě Kukleny) zbytek TODO
+NOZ 1817-1842 (1x N 1830 Plačice)
+
+Kutná Hora
+----------
+Z 1868-1905 (Bylany, Kutná Hora, Perštejnec, Přítoky) (nic)
+
 Ledeč nad Sázavou
 -----------------
 (od 1634)
 O 1790-1853 (nic)
 O 1835-1908 (vsi, nic)
 
+Letohrad
+--------
+Z 1646-1897 (nic)
+
 Liberk
 ------
 (od 1755, předtím Rychnov nad Kněžnou)
+N 1803-1833 (nic)
+N 1834-1886 TODO
 N 1887-1905 (nic)
-O 1846-1887 (nic)
-Z 1839-1902 (nic)
+O 1803-1887 (nic)
+Z 1803-1902 (nic)
 
 Libčany
 -------
@@ -449,6 +631,11 @@ N 1837-1916 (Radostovice, jedna rodina)
 O 1784-1918 (Lično, Hoděčín, Ostašovice, nic)
 O 1837-1916 (Radostovice, nic)
 Z 1837-1916 (Radostovice, 2x)
+
+Lipnice nad Sázavou (Trčkovské panství)
+-------------------
+N 1694-1743 (nic)
+O 1694-1779 (nic)
 
 Litomyšl
 --------
@@ -465,6 +652,8 @@ Lukavice (RK)
 -------------
 (od 1768, předtím Rychnov nad Kněžnou)
 N 1768-1837 (jedna rodina)
+O 1784-1869 (Lukavice, Habrová) (1x 1815)
+O 1869-1913 (Lukavice, Habrová) (nic)
 Z 1784-1837 (jedna rodina)
 
 Mikulovice
@@ -477,8 +666,13 @@ O 1842-1893 (Ostřešany, nic)
 Z 1792-1832 (nic)
 Z 1910-1933 (Ostřešany, nic)
 
-Morašice
---------
+Mnichovo Hradiště
+-----------------
+O 1886-1900 (nic)
+
+
+Morašice (Litomyšl)
+-------------------
 (od 1656)
 N 1815-1858 (nic)
 O 1835-1858 (nic)
@@ -498,6 +692,7 @@ Náchod
 (od 1652)
 N 1670-1905 (2x N nemanž. 1826 + 1829 a 1x 1904)
 O 1835-1905 (2x 1903 a 1904)
+Z 1810-1905 (1x 1827 Plhov, 1x 1836 Plhov)
 
 Nekoř
 -----
@@ -508,6 +703,8 @@ Nové Hrady
 ----------
 (od 1638)
 N 1850-1949 (nic)
+O 1871-1949 (1x 1926 Nové Hrady)
+Z 1871-1949 (nic)
 
 Nové Město nad Metují
 ---------------------
@@ -516,15 +713,20 @@ N 1641-1897 (nic novějšího není)
 O 1642-1905 (od 1865 použit index)
 Z 1641-1905 (od 1853 použit index)
 
+Nový Hradec Králové
+-------------------
+O 1769-1942 (nic)
+
 Nový Hrádek
 -----------
 (od 1721, předtím Dobruška)
 NOZ 1721-1825 (nic)
 N 1826-1855 (nic)
 N 1856-1886 (mnoho)
-N 1886-1901 (Nový Hrádek pár)
+N 1886-1911 (mnoho)
 O 1826-1869 (nic)
-Z 1826-1869 (mnoho)
+Z 1826-1911 (mnoho)
+Z 1912-1945 (několik)
 
 Ondřejovice (Zlaté Hory)
 ------------------------
@@ -534,7 +736,10 @@ Z 1883-1917 (nic)
 
 Opatovice nad Labem
 -------------------
+N 1785-1793 (nic)
 NOZ 1830-1911 (nic)
+O 1785-1806 (nic)
+Z 1785-1806 (1x)
 
 Opočno
 ------
@@ -547,6 +752,7 @@ N 1893-1912 (Opočno, mnoho)
 N 1784-1810 (vsi, nic)
 N 1806-1840 (Pohoří, nic)
 N 1841-1877 (Pohoří, 1x)
+N 1877-1919 (Pohoří, několik rodin od roku 1895)
 N 1806-1843 (Semechnice, nic)
 N 1844-1880 (Semechnice, 1x)
 N 1881-1893 (Semechnice, nic)
@@ -577,25 +783,55 @@ Osice
 N 1819-1892 (Sedlice TODO)
 O 1823-1887 (Osice, nic)
 
+Ostružno (Holín)
+----------------
+O 1882-1913 (nic)
+Z 1900-1940 (nic)
+
 Ostřetín
 --------
 (od 1785, předtím Holice)
 N 1785-1836 (jedna rodina)
 N 1837-1858 (několik)
 N 1859-1890 (několik, jedna rodina)
+N 1891-1919 (Ostřetín, několik)
+N 1785-1825 (Veliny) TODO
+N 1825-1857 (Veliny) TODO
+N 1857-1896 (Veliny) TODO
+N 1785-1851 (Vysoká u Holic) (nic)
+N 1851-1875 (Vysoká u Holic) TODO
 
 O 1785-1850 (Ostřetín, nic)
 O 1850-1875 (Ostřetín, několik)
 O 1876-1934 (Ostřetín, několik)
+O 1785-1863 (Veliny) (nic)
+O 1785-1911 (Vysoká u Holic) (nic)
 
-Z 1785-1869 (mnoho)
-Z (novější nejsou zatím živé)
+Z 1785-1869 (Ostřetín) (mnoho)
+Z 1785-1869 (Veliny) (nic)
+Z 1785-1851 (Vysoká u Holic) (nic)
+Z (novější jsou živé)
 
 Pardubice
 ---------
 N 1860-1908 (nic)
 O 1837-1905 (nic)
 Z 1889-1934 (1x 1913 Kateřina)
+
+Pěčín
+-----
+O 1855-1897 TODO
+Z 1847-1894 TODO
+
+Písečná
+-------
+N 1819-1855 (nic)
+
+Plotiště nad Labem
+------------------
+N 1820-1889 (nic)
+O 1787-1916 (1x O 1883 Toušovský)
+Z 1787-1854 (nic)
 
 Police nad Metují
 -----------------
@@ -606,7 +842,15 @@ Z 1887-1949 (několik Suchý Důl do roku 1905)
 Potštejn
 --------
 (od 1784, předtím Sopotnice)
+N 1784-1817 (Potštejn, nic)
+N 1817-1850 TODO
 N 1850-1877 (Potštejn, nic)
+N 1856-1889 (Brná) TODO
+N 1848-1874 (Záměl) TODO
+
+O 1818-1878 (Potštejn) (nic)
+O 1818-1878 (Záměl) TODO
+O 1818-1897 (Brná) TODO
 
 Pouchov
 -------
@@ -631,6 +875,12 @@ N 1834-1899 (1x 1877)
 O 1784-1895 (nic)
 Z 1893-1899 (nic)
 
+Proseč
+------
+N 1870-1949 (jedna rodina po r. 1906)
+O 1851-1949 (1x 1906)
+Z 1870-1949 (3x jedna rodina po r. 1906)
+
 Přepychy
 --------
 (od 1636)
@@ -643,8 +893,9 @@ O 1833-1857
 O 1857-1895 (několik)
 O 1895-1929 (mnoho)
 Z 1636-1678 (nic)
-Z 1707-1707 (zbývá dodělat až do 1785)
+Z 1679-1758 TODO
 Z 1758-1766 (jeden záznam)
+Z 1777-1785 TODO
 Z 1785-1843
 Z 1843-1895 (Čánka + Nová Ves + Očelice + Přepychy + Zádolí + Bolehošť + Lhota)
 
@@ -655,7 +906,7 @@ O: V/1638-VIII/1644 a V/1663-1706
 Radhošť
 -------
 (od 1784, předtím Chroustovice)
-N 1784-1860 (nic)
+N 1784-1897 (nic)
 O 1784-1860 (nic)
 O 1880-1940 (1x 1914 Radhošť)
 Z 1784-1860 (nic)
@@ -683,7 +934,12 @@ Z 1835-1948 (nic)
 Rychnov nad Kněžnou
 -------------------
 (od 1629)
+N 1629-1652 TODO (je index)
+N 1653-1666 (RK) TODO
 N 1656-1662 (vsi)
+N 1667-1679 (RK) TODO
+N 1688-1692 (RK) TODO
+N 1693-1712 TODO
 N 1712-1770 (nic)
 N 1871-1914 (RK, několik v rodině soukeníka z Habrové)
 N 1867-1914 (Bezděkov, Jedlina) (1x 1894)
@@ -698,6 +954,7 @@ O 1865-1924 (Dubno, Karolín, Lipovka) (nic)
 O 1860-1922 (Městská Habrová, nic)
 Z 1867-1908 (RK) (4x)
 Z 1908-1924 (RK) (několik)
+Z 1924-1937 (RK) (2x)
 Z 1867-1913 (Bezděkov, Jedlina) (1x Bezděkov)
 Z 1867-1914 (Dlouhá Ves) (nic)
 Z 1867-1914 (Dubno, Karolín, Lipovka) (2x Karolín)
@@ -707,7 +964,7 @@ Z 1894-1916 (Městská Habrová) (nic)
 Řepníky
 -------
 (od 1665, předtím Hrochův Týnec)
-N 1809-1897 (3x kolem roku 1895 ve Střemošicích)
+N 1809-1903 (jedna rodina kolem roku 1895 ve Střemošicích)
 O 1809-1897 (nic)
 Z 1809-1897 (jedna rodina kolem roku 1895 ve Střemošicích)
 
@@ -721,26 +978,49 @@ Sezemice
 (od 1636)
 NOZ 1741-1838 (nic)
 
+Skořenice
+---------
+(od 1879, předtím Choceň)
+N 1879-1918 (Kostelecké Horky, Koldín, Hradiště) (nic)
+O 1879-1927 (nic)
+Z 1879-1933 (nic)
+
 Skuhrov nad Bělou
 -----------------
 (od 1787, předtím Rychnov Nad Kněžnou, Solnice, Velký Uhřínov)
 NOZ 1787-1949 (3x svatba)
 
+Slatina nad Zdobnicí
+--------------------
+N 1785-1858 TODO
+N 1858-1904 (nic)
+O 1785-1858 TODO
+O 1858-1904 (nic)
+Z 1785-1858 TODO
+Z 1858-1904 (nic)
+
 Slatinice (Čepirohy)
 --------------------
-N 1855- (živá) TODO
+N 1886-1900 (Čepirohy, 1x 1894)
 
 Slavoňov
 --------
 (od 1787, předtím Nový Hrádek)
 NOZ 1787-1855 (pár výskytů Jestřebí a Libchyně)
-N 1855-1894 (pár výskytů Jestřebí a Libchyně)
+N 1855-1861 (pár výskytů Jestřebí a Libchyně)
+N 1862-1894 (pár výskytů Libchyně)
+N 1895-1912 (nic)
+O 1856-1932 (Blažkov, Mezilesí, Jestřebí, Libchyně, Vanovka, Zákraví) (3x Libchyně)
+O 1856-1932 (Bohdašín, Slavoňov, Mezilesí, Sendraž) TODO
+O 1856-1932 (index nic !!!)
 Z 1855-1900 (2x Libchyně)
 
 Solnice
 -------
 (od 1662, předtím Rychnov nad Kněžnou)
 N 1685-1735
+N 1771-1793 TODO
+N 1794-1836 TODO
 N 1837-1893 (Ještětice, mnoho)
 N 1837-1890 (Kvasiny, 1x 1884)
 N 1894-1949 Ž (Ještětice, několik)
@@ -756,6 +1036,8 @@ Sopotnice
 ---------
 (od 1677)
 N 1677-1784 (nic)
+N 1784-1908 (Sopotnice) TODO
+N 1784-1908 (Česká Rybná) TODO
 O 1784-1949 (nic)
 
 Studnice
@@ -773,6 +1055,12 @@ O 1848-1893 (2x Sudslava)
 Z 1808-1852 (2x okolo 1850)
 Z 1853-1914 (několik, Sudslava)
 
+Svatý Jiří (u Chocně)
+---------------------
+(od 1807, předtím Brandýs n. Orl.)
+N 1807-1893 nic
+O 1807-1847 nic
+
 Světlá nad Sázavou
 ------------------
 (od 1659)
@@ -782,6 +1070,10 @@ O 1659-1836 (nic)
 Šonov (u Broumova)
 ------------------
 N 1643-1741 (nic)
+
+Teplice nad Metují
+------------------
+NOZ po roce 1882 jsou živé, TODO
 
 Třebechovice pod Orebem
 -----------------------
@@ -838,11 +1130,12 @@ Z 1901-1925 (Kerhartice, nic)
 
 Vamberk
 -------
-N 1899-1908 (Vamberk, nic)
+N 1886-1908 (Vamberk, nic)
 N 1840-1882 (Merklovice, nic)
 N 1877-1914 (Lupenice, nic)
 N 1870-1893 (Peklo, nic)
 O 1856-1898 (vsi, nic)
+Z 1838-1893 nic
 
 Velká Jesenice
 --------------
@@ -866,7 +1159,14 @@ Vysoké Chvojno
 --------------
 (od 1734, předtím Holice)
 N 1734-1815 (nic)
+N 1815-1833 TODO
+N 1833-1854 TODO
+N 1855-1876 TODO
+N 1877-1894 TODO
 O 1734-1784 (nic)
+O 1785-1836 TODO
+O 1836-1872 TODO
+O 1872-1901 TODO
 Z 1734-1924 (nic)
 
 Vysoké Mýto
@@ -880,10 +1180,13 @@ Vysoký Újezd
 ------------
 (od 1787, předtím Třebechovice pod Orebem)
 N 1787-1819 (pouze Městec, nic)
+N 1787-1819 (další lokality) TODO
 N 1820-1834 (několik záznamů v Městci, novější matrika není)
 N 1835-1908 (Jílovice, nic)
+N 1835-...  (další lokality) živá
 O 1787-1927 (1x 1819, 2x po 1850, pak řada v Městci kolem 1900)
 Z 1787-1821 (pouze Městec, nic)
+Z 1787-1821 (další lokality) TODO
 Z 1822-1835 (1x Městec)
 Z 1836-1866 (pouze Městec) TODO
 Z 1867-1927 (Městec, Klášter, několik v Městci)
@@ -897,18 +1200,23 @@ Z 1784-1879 (nic)
 Zámrsk
 ------
 (od 1683, předtím Vysoké Mýto)
-N 1784-1841 (nic)
-N 1847-1913 (několik po roce 1900)
-O 1784-1841 (nic)
-Z 1784-1841 (nic)
+N 1784-1913 (několik po roce 1900)
+O 1784-1892 (nic)
+Z 1784-1903 (1x 1902)
 
 Zvole
 -----
 (od 1787, předtím Velká Jesenice)
-N 1826-1863 (pouze Doubravice, 3x)
+N 1787-1803 (Doubravice) TODO
+N 1787-1804 (Rychnovek) TODO
+N 1787-1804 (Zvole) TODO
+N 1804-1879 TODO (hotová část Doubravice)
+N 1826-1863 (Doubravice, 3x)
 N 1905-1913 (pouze Zvole, 2x)
-Z 1787-1891 TODO
+O TODO
+Z 1787-1891 TODO před 069
 Z 1830-1860 (pouze Doubravice, 1x)
+Z TODO
 
 Žamberk
 -------
