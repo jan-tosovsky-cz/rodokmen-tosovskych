@@ -272,9 +272,17 @@ Dolní Lánov
 -----------
 O 1844-1949 (nic)
 
+Dvůr Králové nad Labem
+----------------------
+O 1930-1941 M (nic)
+
 Dubenec (Velichovky)
 --------------------
 NOZ 1803-1880 (nic)
+
+Havlíčkův Brod
+--------------
+Z 1881-1941 (nic)
 
 Heřmanice (Jaroměř)
 -------------------
@@ -376,6 +384,12 @@ N 1791-1878 (nic)
 O 1791-1878 (nic)
 Z 1791-1878 (nic)
 
+Hořice
+-------
+N 1866-1893 (nic)
+O 1835-1941 (nic)
+Z 1866-1897 (nic)
+
 Hořičky
 -------
 N 1680-1806 (nic)
@@ -418,7 +432,7 @@ O 1667-1770 (nic)
 O 1784-1842 (nic)
 O 1843-1906 (HK, Malšovice, Svinary) (nic)
 O 1907-1932 (Malšovice+) TODO
-O 1907-1925 (HK) TODO
+O 1907-1925 (HK) M 2x 1913
 O 1925-1940 (HK) 1x 1926
 Z 1667-1770 (nic)
 Z 1893-1936 (nic)
@@ -626,6 +640,8 @@ O 1918-1941 (nic)
 Lično
 -----
 (od 1784, předtím Častolovice)
+N 1809-1835 (Lično, Hoděčín, Ostašovice) nic
+N 1835-1847 (Lično, Hoděčín, Ostašovice) TODO
 N 1847-1897 (Lično, Hoděčín, Ostašovice, nic)
 N 1837-1916 (Radostovice, jedna rodina)
 O 1784-1918 (Lično, Hoděčín, Ostašovice, nic)
@@ -643,6 +659,7 @@ Litomyšl
 N 1622-1784 (nic)
 N 1837-1890 (Němčice a Sedliště, nic)
 N 1864-1901 (několik 1886-88)
+N 1906-1918 (Litomyšl, 1x 1918)
 O 1914-1940 (vsi, 1x 1915) M
 Z 1882-1902 (Litomyšl, 3x)
 Z 1903-1912 (1x 1904)
@@ -693,6 +710,7 @@ Náchod
 N 1670-1905 (2x N nemanž. 1826 + 1829 a 1x 1904)
 O 1835-1905 (2x 1903 a 1904)
 Z 1810-1905 (1x 1827 Plhov, 1x 1836 Plhov)
+Z 1913-1931 (Náchod) (2x)
 
 Nekoř
 -----
@@ -848,6 +866,7 @@ N 1850-1877 (Potštejn, nic)
 N 1856-1889 (Brná) TODO
 N 1848-1874 (Záměl) TODO
 
+O 1784-1817 (nic)
 O 1818-1878 (Potštejn) (nic)
 O 1818-1878 (Záměl) TODO
 O 1818-1897 (Brná) TODO
@@ -895,7 +914,7 @@ O 1895-1929 (mnoho)
 Z 1636-1678 (nic)
 Z 1679-1758 TODO
 Z 1758-1766 (jeden záznam)
-Z 1777-1785 TODO
+Z 1777-1785 (nic)
 Z 1785-1843
 Z 1843-1895 (Čánka + Nová Ves + Očelice + Přepychy + Zádolí + Bolehošť + Lhota)
 
@@ -922,6 +941,7 @@ Rtyně v Podkrkonoší
 (od 1785, předtím Červený Kostelec)
 N 1846-1894 (nic)
 O 1846-1894 (nic)
+O 1914-1940 M (nic)
 Z 1846-1894 (nic)
 
 Rybná nad Zdobnicí
@@ -1090,6 +1110,8 @@ Z 1882-1932 (1x Ledce, 2x Blešno), index pro roky 1887-90 a 1893-98 chybí
 Trutnov
 -------
 N 1867-1894 (nic)
+O 1867-1922 (nic)
+Z 1869-1895 (nic)
 
 Týniště nad Orlicí
 ------------------
@@ -1113,6 +1135,7 @@ N 1854-1901 (Opočno, 1x)
 Úpice
 ------
 N 1863-1900 (nic)
+Z 1835-1892 (nic)
 
 Ústí nad Orlicí
 ---------------
