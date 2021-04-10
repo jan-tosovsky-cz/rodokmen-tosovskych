@@ -21,35 +21,28 @@ Výše uvedené informace lze doplnit či zpřesnit na základě různých soupi
 Do roku 1650 lze v matrikách ve zkoumaném území doložit zhruba 20 nositelů příjmení Tošovský. 
 
 V tomto torzu nejstarších záznamů lze však rozpoznat dvě hlavní větve:
+* Slavětín nad Metují - později Jeníkovice, Horní Černilov, Šestajovice, Králova Lhota, Trnov  
 * Bohuslavice nad Metují - později Krčín a Spy
-* Jeníkovice - později Horní Černilov
 
-Kromě nich se zde vyskytují menší větve:
-* Přepychy - ojedinělý výskyt
-* Slavětín - ojedinělý výskyt
-* Šestajovice - později Králova Lhota a České Meziřičí, brzy vymřela
-* Trnov - několik generací, ale pak z matrik mizí
-
-V matrikách však není doložen žádný z nositelů, uvedených ve známých soupisech:
+V matrikách je však doložen pouze jediný nositel uvedený ve známých soupisech, Jiřík z Roztok:
 * Soupis poddaných podle víry (SPPV, 1651)
    * Dorota Tošovského z Čánky
    * Jan Tošovský ze dvora v Tošově
    * Jiřík Tošovský z Ostřetína u Holic (ten je doložen v matrikách až později, viz dále)
 
 * Berní rula (1654)
-   * Tošovský z Českého Dubu
    * Jiřík Tošovský z Roztok (u Šestajovic a Slavětína)
    * Jiřík Tošovský z Ostřetína u Holic (shodný se záznamem v SPPV)
 
 ### 1650–1700
 
 Mezi lety 1650 až 1700 se v na různých místech objevilo dalších 60 nositelů. Vznikají dvě nová centra. Je možné, že jde o potomky některé z předchozích větví, ale opora v písemných pramenech chybí.
-* Houdkovice - později Voděrady, Nová Ves, Vojenice, Hroška, Ještětice, Koldín, Vysoké Mýto
+* Houdkovice - později širší okolí Voděrad, okolí Ústí nad Orlicí, Litomyšl, Praha
 * Velká Jesenice
 
 Kromě nich jsou zde i menší větve:
 * Bolehošť
-* Ostřetín
+* Ostřetín (zde se objevila až krátce po roce 1650)
 * Týniště nad Orlicí
 * Vrchoviny
 
