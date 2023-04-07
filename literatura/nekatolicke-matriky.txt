@@ -46,6 +46,7 @@ Choceň
 ------
 N 1863-1902 (nic)
 O 1883-1924 (nic)
+O 1925-1942 M (nic)
 Z 1863-1906 (nic)
 
 Chvaletice (možná Ostřešany)
@@ -56,7 +57,7 @@ N 1893-1900 TODO
 Klášter nad Dědinou
 -------------------
 N 1784-1799 (nic)
-N 1800-1834 TODO
+N 1799-1833 TODO  (prvních 10 stran nic)
 N 1834-1875 (nic)
 N 1875-1890 (3x)
 N 1891-1910 (1x)

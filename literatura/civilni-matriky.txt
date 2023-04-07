@@ -1,6 +1,10 @@
 Civilní matriky
 ===============
 
+Dvůr Králové nad Labem
+----------------------
+O 1927-1939 (nic)
+
 Hradec Králové
 --------------
 O 1873-1919 M (1x)
@@ -15,7 +19,7 @@ Litomyšl
 --------
 O 1879-1939 M (nic)
 Z 1912-1926 (2x - záznamy též v katolických matrikách)
-Z 1927-1938 (nic)
+Z 1925-1943 (1x Parník)
 
 Náchod
 ------
@@ -38,6 +42,7 @@ Z 1871-1923 (nic)
 Pardubice
 ---------
 O 1873-1930 (nic)
+Z 1935-1938 (nic)
 
 Rychnov nad Kněžnou
 -------------------
@@ -57,7 +62,9 @@ Vysoké Mýto
 N 1877-1907 (nic)
 O 1884-1923 (nic)
 O 1923-1932 TODO
+O 1933-1942 M (nic)
 Z 1881-1934 (nic)
+Z 1935-1942 (nic)
 
 Žamberk
 -------

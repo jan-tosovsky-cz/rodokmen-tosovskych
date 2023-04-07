@@ -1,6 +1,11 @@
+Dvůr Králové
+------------
+O 1921-1928 M (nic)
+
 Holice
 ------
 O 1921-1930 M (1x Ostřetín)
+O 1930-1942 M (1x Horní Jelení, 1 x Horní Ředice)
 Z 1921-1941 (nic)
 
 Holohlavy
@@ -42,6 +47,7 @@ Pardubice (i Holicko)
 ---------
 O 1924-1931 M (1x 1925)
 O 1931-1939 M (nic)
+O 1939-1943 M (nic)
 Z 1924-1935 (nic)
 Z 1935-1942 (nic)
 
@@ -57,5 +63,5 @@ Z 1920-1933 (nic)
 
 Vysoké Mýto
 -----------
-O 1921-1927 M (nic)
+O 1921-1942 M (nic)
 Z 1921-1927 (nic)
