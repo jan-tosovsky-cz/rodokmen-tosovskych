@@ -105,6 +105,7 @@ Bystré
 N 1784-1812 (nic)
 N 1828-1880 (nic)
 O 1827-1862 (nic)
+O 1850-1946 (Bačetín, nic)
 Z 1785-1812 (nic)
 
 Býšť
@@ -578,6 +579,7 @@ Javornice
 ---------
 N 1884-1904 (Javornice, nic)
 O 1859-1902 (Javornice, nic)
+O 1902-1945 (Javornice, nic)
 Z 1904-1924 (nic)
 
 Jenišovice
@@ -616,6 +618,8 @@ O 1894-1930 (vsi, 1x Kostelecká Lhota)
 Z 1724-1772 (nic)
 Z 1826-1855 (1x v Tutlekách)
 Z 1856-1900 (několik v Tutlekách a Kostelci)
+Z 1900-1920 TODO
+Z 1921-1944 (nic)
 
 Králíky
 -------
@@ -653,6 +657,7 @@ N 1803-1833 (nic)
 N 1834-1886 TODO
 N 1887-1905 (nic)
 O 1803-1887 (nic)
+O 1887-1944 (několik, nevěsty z Nového Hrádku)
 Z 1803-1902 (nic)
 
 Libčany
@@ -752,7 +757,11 @@ Nové Město nad Metují
 (od 1641)
 N 1641-1897 (nic novějšího není)
 O 1642-1905 (od 1865 použit index)
+O 1854-1944 M (vsi I., rodiny v Přibyslavi)
+O 1854-1944 M (vsi II., 1x Provodov)
+O 1854-1944 M (město) (několik)
 Z 1641-1905 (od 1853 použit index)
+Z 1854-1945 TODO
 
 Nový Hradec Králové
 -------------------
@@ -892,11 +901,12 @@ N 1817-1850 TODO
 N 1850-1877 (Potštejn, nic)
 N 1856-1889 (Brná) TODO
 N 1848-1874 (Záměl) TODO
-
 O 1784-1817 (nic)
 O 1818-1878 (Potštejn) (nic)
 O 1818-1878 (Záměl) TODO
 O 1818-1897 (Brná) TODO
+O 1784-1945 (index, nic)
+Z 1784-1945 (nic)
 
 Pouchov
 -------
@@ -1006,6 +1016,7 @@ O 1835-1919 (RK, několik v rodině soukeníka z Habrové)
 O 1865-1924 (Dubno, Karolín, Lipovka) (nic)
 O 1860-1922 (Městská Habrová, nic)
 O 1919-1934 (nic)
+O 1934-1945 M (Dlouhá Ves, Lipovka, Lokot, RK) (nic)
 Z 1799-1867 (Dlouhá Ves, nic)
 Z 1799-1867 (Městská Habrová, nic)
 Z 1867-1908 (RK) (4x)
@@ -1016,6 +1027,8 @@ Z 1867-1914 (Dlouhá Ves) (nic)
 Z 1867-1914 (Dubno, Karolín, Lipovka) (2x Karolín)
 Z 1839-1893 (Městská Habrová) (3x)
 Z 1894-1916 (Městská Habrová) (nic)
+Z 1937-1945 (Dlouhá Ves, Lipovka, Lokot nic) TODO od str. 250
+Z 1937-1945 (Dlouhá Ves, Lipovka, Lokot nic)
 
 Řepníky
 -------
@@ -1085,8 +1098,11 @@ N 1898-1949 Ž (Solnice, několik)
 O 1771-1841 (1x 1841)
 O 1842-1854 (nic)
 O 1854-1902 (několik Kvasiny a Ještětice)
+O 1903-1943 M (2x Ještětice)
 Z 1771-1841 (1x 1840 Ještětice)
 Z 1842-1854 (2x Ještětice)
+Z 1854-1915 (Solnice, nic)
+Z 1854-1944 (vsi, 1x Ještětice)
 
 Sopotnice
 ---------
@@ -1165,6 +1181,7 @@ N 1834-1864 (nic)
 N 1864-1919 (několik po roce 1905, chybí matriky)
 O 1714-1919
 O 1877-1940 (Týniště, 1x)
+O 1869-1946 (Lípa) (nic)
 Z 1697-1702 (1x Houdkovice), následuje mezera
 Z 1714-1832 (několik v Houdkovicích)
 Z 1833-1895 (nic)
